@@ -7,19 +7,19 @@ This repository brings together a selection of technical projects focused on mac
 )  
   Using linear models and ensemble methods to predict insurance charges from demographic and health features.
 
-- **Correlation Modeling**: [Socioeconomic Indicators & Life Expectancy](Exploratory_Data_Analysis_and_Correlation_Modeling_on_Socioeconomic_Indicators.ipynb)  
+- **Correlation Modeling**: [Socioeconomic Indicators & Life Expectancy](2_Exploratory_Data_Analysis_and_Correlation_Modeling_on_Socioeconomic_Indicators/Exploratory_Data_Analysis_and_Correlation_Modeling_on_Socioeconomic_Indicators.ipynb)  
   Investigating the relationship between GDP and life expectancy across countries over time.
 
-- **Statistical Inference & Biodiversity**: [Species Status in U.S. National Parks](Exploratory_Data_Analysis_Statistical_Inference_&_Clustering_of_National_Park_Biodiversity.ipynb)  
+- **Statistical Inference & Biodiversity**: [Species Status in U.S. National Parks](3_Exploratory_Data_Analysis_Statistical_Inference_&_Clustering_of_National_Park_Biodiversity/Exploratory_Data_Analysis_Statistical_Inference_&_Clustering_of_National_Park_Biodiversity.ipynb)  
   Testing whether endangered status is linked to species category using Chi-squared tests.
 
-- **Wrapper-Based Feature Selection**: [Obesity Classification](Feature_Selection_for_Obesity_Prediction_Comparing_Wrapper_Methods.ipynb)  
+- **Wrapper-Based Feature Selection**: [Obesity Classification](4_Feature_Selection_for_Obesity_Prediction_Comparing_Wrapper_Methods/Feature_Selection_for_Obesity_Prediction_Comparing_Wrapper_Methods.ipynb)  
   Comparing Recursive Feature Elimination, Sequential Forward, and Backward Selection on health behavior data.
 
-- **Time Series Forecasting**: [Solana Price Prediction & Strategy Backtest](Time_Series_Forecasting_and_Trading_Signal_Generation_with_Bidirectional_LSTM_on_Solana.ipynb)  
+- **Time Series Forecasting**: [Solana Price Prediction & Strategy Backtest](5_Time_Series_Forecasting_and_Trading_Signal_Generation_with_Bidirectional_LSTM_on_Solana/Time_Series_Forecasting_and_Trading_Signal_Generation_with_Bidirectional_LSTM_on_Solana.ipynb)  
   A prototype for price forecasting and long-only trading signal generation using LSTMs.
 
-- **Applied Deep Learning**: [Neural Hangman Solver (Trexquant Challenge)](Neural_Hangman_Solver_with_Attention_Trexquant_Challenge.ipynb)  
+- **Applied Deep Learning**: [Neural Hangman Solver (Trexquant Challenge)](6_Neural_Hangman_Solver_with_Attention_Trexquant_Challenge/Neural_Hangman_Solver_with_Attention_Trexquant_Challenge.ipynb)  
   A custom PyTorch attention model for real-time character guessing in a language puzzle game.
 
 ## Technical Stack
