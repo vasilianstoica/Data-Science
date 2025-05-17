@@ -3,7 +3,7 @@
 This repository brings together a selection of technical projects focused on machine learning, statistical modeling, and deep learning applications. Each notebook reflects work on solving structured problems with real-world data—across healthcare, public policy, environmental science, and finance.
 
 ## Projects Included
-- **Regression Modeling**: [1_Predicting_Medical_Insurance_Costs_with_Regression_Modeling](Predicting_Medical_Insurance_Costs_with_Regression_Modeling.ipynb)  
+- **Regression Modeling**: [Medical Insurance Cost Prediction](Predicting_Medical_Insurance_Costs_with_Regression_Modeling.ipynb)  
   Using linear models and ensemble methods to predict insurance charges from demographic and health features.
 
 - **Correlation Modeling**: [Socioeconomic Indicators & Life Expectancy](Exploratory_Data_Analysis_and_Correlation_Modeling_on_Socioeconomic_Indicators.ipynb)  
